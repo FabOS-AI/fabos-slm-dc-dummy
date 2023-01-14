@@ -6,3 +6,8 @@
   tasks:
     - ansible.builtin.debug:
         msg: "dummy create_vm.yml"
+
+    - ansible.builtin.set_stats:
+        data:
+          hostname: "test-vm"
+          ip: "192.168.0.100"
