@@ -1,7 +1,7 @@
 {
   "capabilityClass": "DeploymentCapability",
-  "name": "Docker",
-  "logo": "mdi-docker",
+  "name": "Dummy",
+  "logo": "mdi-test-tube",
   "type": [
     "SETUP",
     "DEPLOY"
